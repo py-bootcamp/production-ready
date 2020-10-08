@@ -93,7 +93,7 @@ You can also find a list of actionables for each so called `pillar`.
 
 - Your users know before you when the application is not working like expected
 - Logs are not giving you enough information (or context)
-- You can’t answer simple metric related question about your application (throughput, req/s, average latency, …)
+- You can’t answer simple metric related questions about your application (throughput, req/s, average latency, …)
 
 ### Actions
 
